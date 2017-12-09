@@ -1,7 +1,6 @@
 package com.excers.selenium.training;
 
 import org.testng.annotations.Test;
-import org.testng.asserts.SoftAssert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 
